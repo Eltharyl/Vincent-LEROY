@@ -10,16 +10,12 @@ intérim en tant que manutentionnaire, j'ai réussi à décrocher mon premier CD
 Au bout de 10 ans la société à été racheté et je ne me retrouver pas dans le nouveau projet, j'ai donc décidé de me reconvertir dans le commerce car c'était un secteur ou les diplomes ne sont pas forcement une obligation, j'ai par la suite exercé le métier de Commercial pendant 8 ans au sein de trois société différentes, SOPARTEX (spécialiste de la pièce Automobile et de motoculture), LYRECO France (Fournitures de bureaux) et L'univers de l'emballage (emballages industriels). A l'aube de mes 40 ans je sais que je ne désire plus faire ce métier car ne ma plait pas et qu'au fond de moi je sais depuis de nombreuses années que je souhaite exercer un métier en lien avec l'informatique et/ou le web.
 J'ai d'ailleurs déja fait par le passé trois demandes de CIF, lorsque j'étais chez GS27, pour suivre une formation d'Administrateur réseau (car c'était la seule formation en lien avec l'informatique disponible sur TOURS à cette période). Aujourd'hui j'aspire à suivre la formation de Développeur Web chez CEFIM pour enfin pouvoir prendre du plaisir dans mon métier.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Mes centres d'intérêts
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Le sport
+- La course à pied ![alt tag](https://user-images.githubusercontent.com/46873664/51466285-1a825a00-1d6a-11e9-83c6-3c3d16f99dfc.jpg)
 
 - Bulleted
 - List
