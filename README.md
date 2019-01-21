@@ -24,6 +24,7 @@ J'ai d'ailleurs déja fait par le passé trois demandes de CIF, lorsque j'étais
 - J'ai pas mal joué à World of Warcraft à ces débuts et maintenant je joue un peu à tout type de jeux.
 Vous trouverez ci-dessous la video d'un Youtubeur qui fait découvrir les wargames:
 [![](https://img.youtube.com/vi/s1YsnO23kqM/0.jpg)](http://www.youtube.com/watch?v=s1YsnO23kqM)
+### Les nouvelles technologies
 
 1. Numbered
 2. List
