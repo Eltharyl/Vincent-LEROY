@@ -15,7 +15,7 @@ J'ai d'ailleurs déja fait par le passé trois demandes de CIF, lorsque j'étais
 ```markdown
 
 # Le sport
-- La course à pied ![alt tag](https://user-images.githubusercontent.com/46873664/51466285-1a825a00-1d6a-11e9-83c6-3c3d16f99dfc.jpg)
+- La course à pied ![img](https://user-images.githubusercontent.com/46873664/51466285-1a825a00-1d6a-11e9-83c6-3c3d16f99dfc.jpg)
 
 - Bulleted
 - List
