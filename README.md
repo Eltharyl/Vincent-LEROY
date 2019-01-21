@@ -14,7 +14,7 @@ J'ai d'ailleurs déja fait par le passé trois demandes de CIF, lorsque j'étais
 
 ### Le sport
 - La course à pied ![alt tag](https://user-images.githubusercontent.com/46873664/51466285-1a825a00-1d6a-11e9-83c6-3c3d16f99dfc.jpg)
-- Le foot [![Alt text for your video](https://www.youtube.com/watch?v=-cyV1mbtUL0)]
+- Le foot [![Alt text for your video](/images/content/4279611/af8d90618f52eb41dd6bdbee0604111a.jpg)](http://www.youtube.com/watch?v=T-D1KVIuvjA)
 
 ### La music
 
