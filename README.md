@@ -29,7 +29,7 @@ Vous trouverez ci-dessous la video d'un Youtubeur qui fait découvrir les wargam
 ![alt tag](https://user-images.githubusercontent.com/46873664/51474687-5de7c300-1d80-11e9-92ca-a2f739c2e11f.jpg)
 ![alt tag](https://user-images.githubusercontent.com/46873664/51474689-5fb18680-1d80-11e9-8d97-8db2a3423d74.jpg)
 ## Mes sites préférés
-- Voici la liste de mes sites préférés:
+- Voici la liste de mes sites préférés: <br/>
 [20 minutes](https://www.20minutes.fr/) <br/>
 [l'equipe](https://www.lequipe.fr/) <br/>
 [youtube](https://www.youtube.com/?gl=FR&hl=fr) <br/>
@@ -39,20 +39,8 @@ Vous trouverez ci-dessous la video d'un Youtubeur qui fait découvrir les wargam
 [venteprivee](https://secure.fr.vente-privee.com/ns/fr-fr/home/default) <br/>
 [allocine](http://www.allocine.fr/) <br/>
 [deezer](https://www.deezer.com/fr/) <br/>
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Eltharyl/Vincent-LEROY/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Me contacter
+Vous trouverez ci-dessous les liens de mes différents réseaux sociaux: <br/>
+[FaceBook](https://www.facebook.com/Eltharyl/) <br/>
+[LinkedIn](www.linkedin.com/in/vincent-leroy-202692172) <br/>
+[Viadeo](http://www.viadeo.com/fr/profile/vincent.leroy33)
