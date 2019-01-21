@@ -28,7 +28,17 @@ Vous trouverez ci-dessous la video d'un Youtubeur qui fait découvrir les wargam
 ![alt tag](https://user-images.githubusercontent.com/46873664/51474682-5a543c00-1d80-11e9-9766-2d1ab7e96ea6.jpg)
 ![alt tag](https://user-images.githubusercontent.com/46873664/51474687-5de7c300-1d80-11e9-92ca-a2f739c2e11f.jpg)
 ![alt tag](https://user-images.githubusercontent.com/46873664/51474689-5fb18680-1d80-11e9-8d97-8db2a3423d74.jpg)
-
+## Mes sites préférés
+- Voici la liste de mes sites préférés:
+[20 minutes](https://www.20minutes.fr/)
+[l'equipe](https://www.lequipe.fr/)
+[youtube](https://www.youtube.com/?gl=FR&hl=fr)
+[jeuxvideos](http://www.jeuxvideo.com/pc.htm)
+[warlordgames](https://store.warlordgames.com/)
+[gamesworkshop](https://www.games-workshop.com/fr-FR/D-accueil)
+[venteprivee](https://secure.fr.vente-privee.com/ns/fr-fr/home/default)
+[allocine](http://www.allocine.fr/)
+[deezer](https://www.deezer.com/fr/)
 
 1. Numbered
 2. List
