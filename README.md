@@ -25,6 +25,10 @@ J'ai d'ailleurs déja fait par le passé trois demandes de CIF, lorsque j'étais
 Vous trouverez ci-dessous la video d'un Youtubeur qui fait découvrir les wargames:
 [![](https://img.youtube.com/vi/s1YsnO23kqM/0.jpg)](http://www.youtube.com/watch?v=s1YsnO23kqM)
 ### Les nouvelles technologies
+![alt tag](https://user-images.githubusercontent.com/46873664/51474682-5a543c00-1d80-11e9-9766-2d1ab7e96ea6.jpg)
+![alt tag](https://user-images.githubusercontent.com/46873664/51474687-5de7c300-1d80-11e9-92ca-a2f739c2e11f.jpg)
+![alt tag](https://user-images.githubusercontent.com/46873664/51474689-5fb18680-1d80-11e9-8d97-8db2a3423d74.jpg)
+
 
 1. Numbered
 2. List
