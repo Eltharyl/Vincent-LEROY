@@ -12,10 +12,8 @@ J'ai d'ailleurs déja fait par le passé trois demandes de CIF, lorsque j'étais
 
 ### Mes centres d'intérêts
 
-```markdown
-
 # Le sport
-- La course à pied ![img](https://user-images.githubusercontent.com/46873664/51466285-1a825a00-1d6a-11e9-83c6-3c3d16f99dfc.jpg)
+- La course à pied ![alt tag](https://user-images.githubusercontent.com/46873664/51466285-1a825a00-1d6a-11e9-83c6-3c3d16f99dfc.jpg)
 
 - Bulleted
 - List
@@ -26,7 +24,6 @@ J'ai d'ailleurs déja fait par le passé trois demandes de CIF, lorsque j'étais
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
