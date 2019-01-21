@@ -14,13 +14,16 @@ J'ai d'ailleurs déja fait par le passé trois demandes de CIF, lorsque j'étais
 
 ### Le sport
 - La course à pied ![alt tag](https://user-images.githubusercontent.com/46873664/51466285-1a825a00-1d6a-11e9-83c6-3c3d16f99dfc.jpg)
-- Le foot 
+- Le foot, surtout quand on vit des événements comme la coupe du monde ^^
 [![FRANCE 2018](https://img.youtube.com/vi/2C-Wu9lfIEA/0.jpg)](http://www.youtube.com/watch?v=2C-Wu9lfIEA)
 ### Le cinéma
 - Principalement la science fiction et Peter Jackson
 ![alt tag](https://user-images.githubusercontent.com/46873664/51473712-6c80ab00-1d7d-11e9-8dd0-245fce26a042.png)
-
-
+![alt tag](https://user-images.githubusercontent.com/46873664/51473727-79050380-1d7d-11e9-986c-bae0a991a6be.png)
+### Les jeux videos et les wargames (jeux de figurines)
+- J'ai pas mal joué à World of Warcraft à ces débuts et maintenant je joue un peu à tout type de jeux.
+Vous trouverez ci-dessous la video d'un Youtubeur qui fait découvrir les wargames:
+[![](https://img.youtube.com/vi/s1YsnO23kqM/0.jpg)](http://www.youtube.com/watch?v=s1YsnO23kqM)
 
 1. Numbered
 2. List
